@@ -1,0 +1,6 @@
+name,calories_per_100g,carbs_per_100g,protein_per_100g,fat_per_100g,artificial_sweetener,artificial_colours,preservatives,nutrient_penalty,processing_penalty,healthiness_score,score_category,predicted_nutrition,predicted_ingredient,predicted_combined
+Nutella hazelnut spread,539,57.5,6.3,30.9,0,0,0,387.0,0.0,0.0,Very Poor,0.0,7.5,0.0
+Coca-Cola Original,42,10.6,0.0,0.0,0,1,0,103.3,5.0,0.0,Very Poor,0.0,4.5,0.7
+Kellogg's Froot Loops (US),374,87.5,5.7,3.8,0,1,0,272.3,5.0,0.0,Very Poor,0.0,4.4,1.1
+Doritos Nacho Cheese chips,536,64.29,7.14,28.57,0,1,0,370.4,5.0,0.0,Very Poor,0.0,4.4,0.0
+"Chicken breast (cooked, skinless)",165,0.0,31.0,3.6,0,0,0,44.6,0.0,55.4,Moderate,49.4,8.2,38.6

@@ -1,0 +1,16 @@
+feature,mean_abs_shap
+ingredient_protein_per_100g,9.927112
+carbs_per_100g,7.930822
+fat_per_100g,7.8728566
+protein_per_100g,7.0627337
+calories_per_100g,4.7014074
+ingredient_fat_per_100g,2.929187
+ingredient_carbs_per_100g,2.8040583
+ingredient_calories_per_100g,1.7738993
+artificial_sweetener,1.271342
+artificial_colours,1.148295
+preservatives,1.0740606
+ingredient_count,0.24741276
+ingredient_entropy,0.16770191
+top3_ingredient_mass_fraction,0.15497737
+top_ingredient_mass_fraction,0.043471303
